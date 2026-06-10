@@ -3,3 +3,7 @@ __pycache__/
 *.pyc
 .env
 .DS_Store
+# Terraform
+terraform/.terraform/
+terraform/terraform.tfstate
+terraform/terraform.tfstate.backup
